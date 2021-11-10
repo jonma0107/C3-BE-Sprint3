@@ -1,5 +1,5 @@
 # Objetivo
-Desarrollar los componentes correspondientes a la capa de datos y a la capa lógica (parte 1) de la aplicación.
+Desarrollar los componentes correspondientes a la capa de datos y a la capa lógica de la aplicación.
 
 # Actividades
 
